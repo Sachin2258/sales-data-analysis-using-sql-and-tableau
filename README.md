@@ -29,9 +29,9 @@
 	
 <p  align="center"><a href="https://public.tableau.com/views/SalesInsights-DataAnalysisProject/Dashboard-ProfitAnalysis?:language=en-US&:display_count=n&:origin=viz_share_link"><img width="100%" src="https://github.com/mrankitgupta/Sales-Insights-Data-Analysis-using-Tableau-and-SQL/blob/main/images/Tableau%20Dashbpard%20Profit%20Analysis.png" /></a></p>
   
-## Project References: 🔗
+## Project References: 
 
-<code>[Statistics for Data Science using Python](https://github.com/mrankitgupta/Statistics-for-Data-Science-using-Python)</code> 
+<code>[Statistics for Data Science using Python]</code> 
 
 
   
