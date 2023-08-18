@@ -24,7 +24,7 @@
 
 #### Tableau Dashboard 
 	
-<p  align="center"><img width="100%" src="https://github.com/Sachin2258/sales-data-analysis-using-sql-and-tableau/blob/main/images/Tableau%20Dashbpard%20Revenue%20Analysis.png?raw=true)https://github.com/Sachin2258/sales-data-analysis-using-sql-and-tableau/blob/main/images/Tableau%20Dashbpard%20Revenue%20Analysis.png?raw=true" /></p>
+<p  align="center"><img width="100%" src="https://github.com/Sachin2258/sales-data-analysis-using-sql-and-tableau/blob/main/images/Tableau%20Dashbpard%20Revenue%20Analysis.png?raw=true" /></p>
   
 ## Project References: 
 
